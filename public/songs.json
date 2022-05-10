@@ -1,0 +1,193 @@
+{
+	"meta": {
+		"formatversion": "1",
+		"day": "2021-05-22",
+		"showtype": "Grand Final",
+		"bettingLocked": false,
+		"finished": false		
+	},
+	"songs": [
+		{
+			"country": "GBR",
+			"order": 1,
+			"points": 0,
+			"title": "Embers",
+			"artist": "James Newman"
+		},
+		{
+			"country": "ESP",
+			"order": 2,
+			"points": 0,
+			"title": "Voy A Quedarme",
+			"artist": "Blas Cantó"
+		},
+		{
+			"country": "ISR",
+			"order": 3,
+			"points": 0,
+			"title": "Set Me Free",
+			"artist": "Eden Alene"
+		},
+		{
+			"country": "RUS",
+			"order": 4,
+			"points": 0,
+			"title": "Russian Woman",
+			"artist": "Manizha"
+		},
+		{
+			"country": "MLT",
+			"order": 5,
+			"points": 0,
+			"title": "Je Me Casse",
+			"artist": "Destiny"
+		},
+		{
+			"country": "CYP",
+			"order": 6,
+			"points": 0,
+			"title": "El Diablo",
+			"artist": "Elena Tsagrinou"
+		},
+		{
+			"country": "BEL",
+			"order": 7,
+			"points": 0,
+			"title": "The Wrong Place",
+			"artist": "Hooverphonic"
+		},
+		{
+			"country": "SRB",
+			"order": 8,
+			"points": 0,
+			"title": "Loco Loco",
+			"artist": "Hurricane"
+		},
+		{
+			"country": "PRT",
+			"order": 9,
+			"points": 0,
+			"title": "Love Is On My Side",
+			"artist": "The Black Mamba"
+		},
+		{
+			"country": "ISL",
+			"order": 10,
+			"points": 0,
+			"title": "10 Years",
+			"artist": "Daði og Gagnamagnið"
+		},
+		{
+			"country": "GRC",
+			"order": 11,
+			"points": 0,
+			"title": "Last Dance",
+			"artist": "Stefania"
+		},
+		{
+			"country": "ALB",
+			"order": 12,
+			"points": 0,
+			"title": "Karma",
+			"artist": "Anxhela Peristeri"
+		},
+		{
+			"country": "SUI",
+			"order": 13,
+			"points": 0,
+			"title": "Tout l'Univers",
+			"artist": "Gjon's Tears"
+		},
+		{
+			"country": "ITA",
+			"order": 14,
+			"points": 0,
+			"title": "Zitti E Buoni",
+			"artist": "Måneskin"
+		},
+		{
+			"country": "DEU",
+			"order": 15,
+			"points": 0,
+			"title": "I Don’t Feel Hate",
+			"artist": "Jendrik"
+		},
+		{
+			"country": "FRA",
+			"order": 16,
+			"points": 0,
+			"title": "Voilà",
+			"artist": "Barbara Pravi"
+		},
+		{
+			"country": "NLD",
+			"order": 17,
+			"points": 0,
+			"title": "Birth Of A New Age",
+			"artist": "Jeangu Macrooy"
+		},
+		{
+			"country": "NOR",
+			"order": 18,
+			"points": 0,
+			"title": "Fallen Angel",
+			"artist": "TIX"
+		},
+		{
+			"country": "AZE",
+			"order": 19,
+			"points": 0,
+			"title": "Mata Hari",
+			"artist": "Efendi"
+		},
+		{
+			"country": "LTU",
+			"order": 20,
+			"points": 0,
+			"title": "Discoteque",
+			"artist": "The Roop"
+		},
+		{
+			"country": "SWE",
+			"order": 21,
+			"points": 0,
+			"title": "Voices",
+			"artist": "Tusse"
+		},
+		{
+			"country": "UKR",
+			"order": 22,
+			"points": 0,
+			"title": "Shum",
+			"artist": "Go_A"
+		},
+		{
+			"country": "BGR",
+			"order": 23,
+			"points": 0,
+			"title": "Growing Up Is Getting Old",
+			"artist": "VICTORIA"
+		},
+		{
+			"country": "MDA",
+			"order": 24,
+			"points": 0,
+			"title": "SUGAR",
+			"artist": "Natalia Gordienko"
+		},
+		{
+			"country": "SMR",
+			"order": 25,
+			"points": 0,
+			"title": "Adrenalina",
+			"artist": "Senhit"
+		},
+		{
+			"country": "FIN",
+			"order": 26,
+			"points": 0,
+			"title": "Dark Side",
+			"artist": "Blind Channel"
+		}
+	]
+}
