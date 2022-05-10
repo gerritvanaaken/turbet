@@ -1,7 +1,7 @@
 <template>
 	<div id="app" class="app">
 		<header class="app__header">
-			<h1 class="app__headline">#rotbet</h1>
+			<h1 class="app__headline">#turbet</h1>
 			
 			<div class="app__phases">
 				<div class="app__phase app__phase--1" :class="{ 'app__phase--active': !songdata.meta.bettingLocked }">Phase 1: <small class="app__phaseremark">Guessing</small></div>
@@ -9,7 +9,7 @@
 			</div>
 			<button v-if="!songdata.meta.bettingLocked" class="app__button app__button--add" @click="addPlayer()">Add New Player</button>
 			<button class="app__button app__button--readme" @click="toggleReadme()">How To / Legal</button>
-			<div class="app__subline">The betting game for Rotterdam 2021</div>
+			<div class="app__subline">The betting game for Turin 2022</div>
 		</header>
 		<div class="app__betarea">
 			<bet-songs :songs="songdata.songs" :meta="songdata.meta"></bet-songs>
